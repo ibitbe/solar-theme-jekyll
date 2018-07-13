@@ -1,6 +1,6 @@
-name: Mr.Chang
+name: iBitBe
 url: https://ibitbe.com
-description: Mr.Chang's blog
+description: 欢迎来到我的博客！
 
 permalink: /:year/:month/:day/:title/
 paginate: 10
