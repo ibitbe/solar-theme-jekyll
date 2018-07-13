@@ -7,7 +7,3 @@ paginate: 10
 
 gems: [jekyll-paginate]
 exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']
-
-google:
-    ad-client: "pub-1880098991629981"
-    #ad-slot: "9439014959"  #后续更改
