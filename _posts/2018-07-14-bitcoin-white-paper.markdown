@@ -4,6 +4,7 @@ title:  "比特币白皮书：一种点对点的电子现金系统"
 date:   2018-07-14 12:06:25
 categories: white paper
 ---
+<meta name="viewport" content="width=device-width,height=device-height,inital-scale=1.0,maximum-scale=1.0,user-scalable=no;" />
 
 <center>原文作者：中本聪（Satoshi Nakamoto）</center>
 
