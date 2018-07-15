@@ -50,7 +50,7 @@ categories: white paper
 
 ##作为状态转换系统的比特币
 
-![eth](/images/eth-white-paper-1.png)
+![eth](/images/eth-white-paper-1.png){:width="284px"}
 
 
 从技术角度讲，比特币账本可以被认为是一个状态转换系统，该系统包括所有现存的比特币所有权状态和“状态转换函数”。状态转换函数以当前状态和交易为输入，输出新的状态。例如，在标准的银行系统中，状态就是一个资产负债表，一个从A账户向B账户转账X美元的请求是一笔交易，状态转换函数将从A账户中减去X美元，向B账户增加X美元。如果A账户的余额小于X美元，状态转换函数就会返回错误提示。所以我们可以如下定义状态转换函数：
@@ -82,7 +82,7 @@ APPLY({ Alice: \$50, Bob: \$50 },"send \$70 from Alice to Bob") = ERROR
 
 ##挖矿
 
-![eth](/images/eth-white-paper-2.png)
+![eth](/images/eth-white-paper-2.png){:width="284px"}
 
 一个区块，每个区块包含一个时间戳、一个随机数、一个对上一个区块的引用（即哈希）和上一区块生成以来发生的所有交易列表。这样随着时间流逝就创建出了一个持续增长的区块链，它不断地更新，从而能够代表比特币账本的最新状态。
 
@@ -110,7 +110,7 @@ APPLY({ Alice: \$50, Bob: \$50 },"send \$70 from Alice to Bob") = ERROR
 
 默克尔树
 
-![eth](/images/eth-white-paper-3.png)
+![eth](/images/eth-white-paper-3.png){:width="284px"}
 
 
 左：仅提供默克尔树（Merkle tree）上的少量节点已经足够给出分支的合法证明。
@@ -172,7 +172,7 @@ APPLY({ Alice: \$50, Bob: \$50 },"send \$70 from Alice to Bob") = ERROR
 
 ##以太坊状态转换函数
 
-![eth](/images/eth-white-paper-4.png)
+![eth](/images/eth-white-paper-4.png){:width="284px"}
 
 
 以太坊的状态转换函数：APPLY(S,TX) -> S'，可以定义如下：
@@ -211,7 +211,7 @@ EVM代码的正式执行模型令人惊讶地简单。当以太坊虚拟机运�
 
 ##区块链和挖矿
 
-![eth](/images/eth-white-paper-5.png)
+![eth](/images/eth-white-paper-5.png){:width="284px"}
 
 
 虽然有一些不同，但以太坊的区块链在很多方面类似于比特币区块链。它们的区块链架构的不同在于，以太坊区块不仅包含交易记录和最近的状态，还包含区块序号和难度值。以太坊中的区块确认算法如下：
@@ -387,7 +387,7 @@ C50: (作一个图灵机的步计算和记录结果在合约的长期存储)
 
 除了线性的发行方式外，和比特币一样以太币的的供应量增长率长期来看也趋于零。
 
-![eth](/images/eth-white-paper-6.png)
+![eth](/images/eth-white-paper-6.png){:width="284px"}
 
 
 ##挖矿的中心化
