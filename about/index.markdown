@@ -8,4 +8,5 @@ title: About
 ---------------------------------
 请多多支持！
 
-![微信](/images/wxpay.png "微信")   ![支付宝](/images/alipay.png "微信")
+|![微信](/images/wxpay.png)| |![支付宝](/images/alipay.png)| |![ImToken](/images/imtoken.jpg)|
+|微信||支付宝||
