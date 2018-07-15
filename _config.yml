@@ -3,7 +3,7 @@ url: https://ibitbe.com
 description: 欢迎来到我的博客！
 
 permalink: /:year/:month/:day/:title/
-paginate: 10
+paginate: 6
 
 gems: [jekyll-paginate]
 exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']
