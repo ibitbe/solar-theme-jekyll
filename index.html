@@ -18,7 +18,7 @@ title: Mr.Chang的个人博客
 		<div class="post-content">
 			<span class="post-date">{{post.date | date: '%Y, %b %d'}}&nbsp;&nbsp;—&nbsp;</span>
 		    <span class="post-words">{% capture words %}{{ post.content | number_of_words }}{% endcapture %}{% unless words contains "-" %}{{ words | plus: 250 | divided_by: 250 | append: " minute read" }}{% endunless %}</span>
-			{{ post.content | strip_html | truncatewords: 1 }} <a href="{{ post.url }}">Read more!</a>
+			<span>{{ post.content | strip_html | truncatewords: 1 }} <a href="{{ post.url }}">Read more!</a></span>
 		</div>
 		
 	</article>
