@@ -3,12 +3,12 @@ layout: default
 title: About
 ---
 
-This is Mr.Chang's blog
+这是我的个人博客，如果内容对您产生了价值或者为您提供的帮忙，欢迎打赏！
 
 ---------------------------------
 请多多支持！
 
 |![微信](/images/wxpay.png)| | ![支付宝](/images/alipay.png)|
-|:微信打赏:| |:支付宝打赏:|
+|   微信打赏   | |   支付宝打赏   |
  
 
