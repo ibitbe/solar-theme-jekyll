@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "11种保护隐私的方法"
+title:  "保护隐私的十一种方法"
 date:   2018-07-23 14:43:26
 categories: blog
 auther: "Mr.Chang"
