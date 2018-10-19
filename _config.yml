@@ -6,6 +6,5 @@ permalink: /:year/:month/:day/:title/
 paginate: 6
 
 gems: [jekyll-paginate]
-exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']
-
+markdown:  kramdown
 excerpt_separator:  '<!-- more -->'
