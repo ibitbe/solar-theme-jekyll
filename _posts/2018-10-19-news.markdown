@@ -1,0 +1,128 @@
+---
+layout: post
+title:  "今日快讯"
+date:   2018-10-19 11:02:38
+categories: blog
+auther: "Mr.Chang"
+---
+
+[美国加密对冲基金因庞氏骗局被罚250万美元](https://www.8btc.com/article/293898)
+>**据cointelegraph 10月19日消息，纽约联邦法院18日公布的一份官方声明中表示，已下令加密货币对冲基金Gelfman Blueprint, Inc. (GBI)及其首席执行官Nicholas Gelfman支付逾250万美元，理由是该公司经营的业务涉嫌庞氏骗局。**
+
+
+[《中国网络社会治理研究报告（2018）》发布，涉及区块链治理等问题](https://www.8btc.com/article/293896)
+>**央视网10月18日讯，“2018年《中国网络社会治理研究报告》蓝皮书发布会暨互联网治理研讨会”昨日在北京举行。大会发布了《中国网络社会治理研究报告（2018）》，蓝皮书深入探讨了网络社会治理趋势，如移动短视频治理、算法（大数据）治理、区块链治理等学界和业界都非常重视的热点问题。 **
+
+
+[一种新型支付处理器引入BCH](https://www.8btc.com/article/293892)
+>**据Bitcoin.com 10月19日消息，BCH支持者昨日被引入了一种名为“Gateway.cash”的新型DIY BCH支付处理器。该软件允许任何拥有BCH的人，通过为任何网站创建可嵌入的支付按钮，以接受BCH的支付和捐赠。**
+
+
+[王黎强：蚂蚁金服将运用区块链等技术协助监管部门](https://www.8btc.com/article/293883)
+
+[百慕大政府颁发首个ICO许可证](https://www.8btc.com/article/293872)
+
+[丹麦网球名将沃兹尼亚奇将推出专属token](https://www.8btc.com/article/293863)
+
+[马斯克旗下一家公司接受加密货币支付](https://www.8btc.com/article/293853)
+
+[日本金融厅研讨会实况：业内人士认为需考虑数字货币交易行为是否具有金融特性](https://www.8btc.com/article/293847)
+
+[EOS主网的CPU抵押价格大幅下降](https://www.8btc.com/article/293825)
+
+[港交所发布报告探讨区块链，强调监管一致性原则](https://www.8btc.com/article/293798)
+
+[美国政府执法辩护律师：“代币是不是证券”并非由SEC单方面决定](https://www.8btc.com/article/293779)
+
+[美国场外交易公司半年内的数字货币贷款超五亿美元](https://www.8btc.com/article/293772)
+
+[比特币矿业巨头Bitfury将利用区块链技术保护版权](https://www.8btc.com/article/293765)
+
+[台积电：预计第四季度加密挖矿芯片销售将会疲软](https://www.8btc.com/article/293750)
+
+[分析显示：算力连续两月处于平台整理阶段，但市场仍在恐慌周期](https://www.8btc.com/article/293747)
+
+[报告显示：美国区块链行业对人才的需求不断增长](https://www.8btc.com/article/293737)
+
+[印度加密货币交易所Zebpay将搬至马耳他](https://www.8btc.com/article/293709)
+
+[央行征信管理局局长：发达国家欲将区块链等技术运用至征信领域](https://www.8btc.com/article/293700)
+
+[韩国加密货币交易所集体进军东南亚市场](https://www.8btc.com/article/293695)
+
+[Vinny Lingham：另一个2万美元的比特币泡沫即将到来](https://www.8btc.com/article/293683)
+
+[Emma应用程序推出加密货币交易所集成服务](https://www.8btc.com/article/293675)
+
+[研究显示：比特币期货结算与现货价格的相关性正逐渐减弱](https://www.8btc.com/article/293670)
+
+[委内瑞拉石油币目前已在六个交易所上市](https://www.8btc.com/article/293658)
+
+[CFTC首次针对比特币相关的反欺诈执法行动获胜](https://www.8btc.com/article/293654)
+
+[eToro CEO：Bitfinex缺乏透明度或致其无法解决银行业务问题](https://www.8btc.com/article/293652)
+
+[巴比特早班车 | 隔夜要闻一览](https://www.8btc.com/article/293650)
+
+[报告：加密货币交易所两年内因黑客攻击损失了8.82亿美元](https://www.8btc.com/article/293646)
+
+[币安CFO：希望添加更多稳定币 将继续支持USDT](https://www.8btc.com/article/293640)
+
+[Coinbase开源其安全扩展工具](https://www.8btc.com/article/293639)
+
+[三星新芯片可降低一半能耗，或使加密矿工受益](https://www.8btc.com/article/293636)
+
+[邹传伟：2大因素将对稳定币市场构成巨大影响](https://www.8btc.com/article/293632)
+
+[平安金融壹账通利用区块链解决信用多级穿透](https://www.8btc.com/article/293625)
+
+[美国联邦执法机构将拍卖约660枚被没收的比特币](https://www.8btc.com/article/293628)
+
+[某账户聚集ETH后转入中间账户，最终1.59万枚ETH流入Gemini交易所](https://www.8btc.com/article/293626)
+
+[Jake Chervinsky：代币是否是证券并非由SEC单方面决定](https://www.8btc.com/article/293623)
+
+[数据显示：大多数交易所都未能在10毫秒内完成处理订单任务](https://www.8btc.com/article/293604)
+
+[江苏如皋借力阿里巴巴发展区块链农业](https://www.8btc.com/article/293610)
+
+[世界银行集团高级采购专员：区块链可简化政府电子采购流程](https://www.8btc.com/article/293605)
+
+[比特币行情|BTC现价6715.57美元](https://www.8btc.com/article/293593)
+
+[比特币行情|BTC现价6715.57美元](https://www.8btc.com/article/293594)
+
+[以太坊行情|ETH现价211.35美元](https://www.8btc.com/article/293595)
+
+[EOS行情|EOS现价5.56美元](https://www.8btc.com/article/293596)
+
+[以太坊行情|ETH现价211.35美元](https://www.8btc.com/article/293597)
+
+[EOS行情|EOS现价5.56美元](https://www.8btc.com/article/293598)
+
+[火币推出6大金融产品](https://www.8btc.com/article/293590)
+
+[高盛和亿万富豪Michael Novogratz将投资加密货币安全托管公司BitGo](https://www.8btc.com/article/293581)
+
+[外媒：Tether市值下降7亿美元，接近年度低点](https://www.8btc.com/article/293575)
+
+[统计数据：2012年至2018年上半年被盗的加密货币价值17亿美元](https://www.8btc.com/article/293573)
+
+[陈志武：区块链可提升金融安全度，但应解决技术问题](https://www.8btc.com/article/293566)
+
+[以太坊未确认交易数量为64793笔，网络非常拥堵](https://www.8btc.com/article/293497)
+
+[OKEx黎智凯：STO可降低交易门槛及成本，拟于马耳他成立STO交易所](https://www.8btc.com/article/293560)
+
+[TokenInsight ：匿名类通证以大额支付和转账作为价值支撑](https://www.8btc.com/article/293558)
+
+[Block.one 推出具有游戏属性的EOSIO区块链教程](https://www.8btc.com/article/293538)
+
+[比尔梅琳达盖茨基金会与Ripple合作支持扶贫支付系统的建设](https://www.8btc.com/article/293546)
+
+[西班牙130家咖啡店开始接受比特币支付](https://www.8btc.com/article/293544)
+
+[上交所朱立：三个问题阻碍联盟链的运用](https://www.8btc.com/article/293541)
+
+[巴比特晚间要闻一览](https://www.8btc.com/article/293492)
+
