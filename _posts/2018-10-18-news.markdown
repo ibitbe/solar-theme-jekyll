@@ -31,8 +31,6 @@ auther: "Mr.Chang"
 
 [贵州区块链智慧公益平台正式上线，将公益活动存证化](https://www.8btc.com/article/293347)
 
-[A股区块链板块行情丨整体下跌2.94%](https://www.8btc.com/article/293320)
-
 [报告：亚洲和非洲新兴市场在数字货币采用方面正扮演着越来越重要的角色](https://www.8btc.com/article/293304)
 
 [莫斯科举办以加密货币挖矿和贸易为主题的艺术展](https://www.8btc.com/article/293287)
@@ -44,8 +42,6 @@ auther: "Mr.Chang"
 [溯源链入选《2018中国区块链蓝皮书》企业案例](https://www.8btc.com/article/293249)
 
 [众安科技发布《保险通证白皮书》，助力保险资产在区块链世界自由流通](https://www.8btc.com/article/293246)
-
-[比原全球开发大赛 | 曾独立打造行业第一APP行者，如今转投比原链生态杀入区块链](https://www.8btc.com/article/293240)
 
 [智联招聘发布报告：区块链招聘需求集中在一线和新一线城市，北上深排名前三](https://www.8btc.com/article/293224)
 
@@ -114,8 +110,6 @@ auther: "Mr.Chang"
 [BitMEX将推出比特币软件客户端](https://www.8btc.com/article/292984)
 
 [加拿大公司将为大麻产业构建基于区块链的供应链平台](https://www.8btc.com/article/292977)
-
-[巴比特早班车 | 隔夜要闻一览](https://www.8btc.com/article/292965)
 
 [CME：三季度比特币期货日均成交量上涨41％](https://www.8btc.com/article/292963)
 
