@@ -7,4 +7,6 @@ paginate: 6
 
 gems: [jekyll-paginate]
 markdown:  kramdown
+kramdown:
+  input: GFM
 excerpt_separator:  '<!-- more -->'
