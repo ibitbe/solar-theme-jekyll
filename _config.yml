@@ -6,7 +6,5 @@ permalink: /:year/:month/:day/:title/
 paginate: 6
 
 gems: [jekyll-paginate]
-markdown:  kramdown
-kramdown:
-  input: GFM
+markdown:  redcarpet
 excerpt_separator:  '<!-- more -->'
