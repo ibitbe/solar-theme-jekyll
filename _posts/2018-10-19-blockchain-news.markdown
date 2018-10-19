@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "今日快讯"
+title:  "区块链快讯"
 date:   2018-10-19 16:14:36
 categories: blog
 auther: "Mr.Chang"
